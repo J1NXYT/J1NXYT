@@ -10,3 +10,13 @@ This repository provides a configuration for a Minecraft Paper server that featu
 - Player effects (slowness and blindness) near world borders.
 - Automatic world reset when all players leave.
 - Configuration for player teleportation upon joining and leaving.
+
+
+
+
+## Please if you want this give me friend request in discord :
+
+   # https://discord.gg/tqW7SFy8
+
+
+# Only for youtubers 
